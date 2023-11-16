@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahul-kr-singh&theme=merko" alt="Rahul-kr-singh" /></a> </p>
 <br>
-<!-- <p align="center"> <a href="https://twitter.com/Tajender_kumar1" target="blank"><img src="https://img.shields.io/twitter/follow/Rahul-kr-singh?logo=twitter&style=for-the-badge" alt="Rahul-kr-singh" /></a> </p><br>
+<!-- <p align="center"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/Rahul-kr-singh?logo=twitter&style=for-the-badge" alt="Rahul-kr-singh" /></a> </p><br>
  -->
 - 🔭 I’m currently working on *Something great , Will let you know soon....*
 
@@ -29,11 +29,11 @@
 <br><br>
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
-<a href="https://twitter.com/Tajender_kumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tajenderkumar5" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tajender-kumar-11884a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajenderkumar5" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17070581" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rahul-kr-singh/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Rahul-kr-singh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tajenderkumar.kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajenderkumar5" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tajender_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajenderkumar5" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tajenderkumar5" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tajenderkumar50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tajenderkumar5" height="30" width="40" /></a>
 </p>
