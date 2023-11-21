@@ -13,13 +13,13 @@
  -->
 - 🔭 I’m currently working on *Something great , Will let you know soon....*
 
-- 🌱 I’m currently learning *Django , Flask etc.*
+- 🌱 I’m currently learning *react js , Flask etc.*
 
 - 👯 I’m looking to collaborate on *some great projects.*
 
 - 🤝 I’m looking for help with *not right now but whenever i need i'll put it on my profile.*
 
-- 💬 Ask me about Python ,C++**
+- 💬 Ask me about Python ,Django, Web Scraping, Mysql, Selenium, Pandas, Bs4**
 
 - 📫 How to reach me mailto:rk2153691@gmail.com**
 
